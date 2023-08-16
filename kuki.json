@@ -1,0 +1,12 @@
+{
+  "name": "curl",
+  "version": "0.0.1",
+  "description": "a curl wrapper",
+  "author": "Jo Shinonome",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jshinonome/curl"
+  },
+  "type": "q",
+  "dependencies": {}
+}
